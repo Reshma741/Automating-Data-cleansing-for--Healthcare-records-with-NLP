@@ -129,7 +129,7 @@ const App = () => {
         
         <a href="mailto:reshma@example.com" class="btn">Email Us:reshma541@gmail.com</a><br></br>
        
-        <p>&copy; All Rights Reserved.</p>
+        <p>@2025 Reshma M S. All Rights Reserved.</p>
 </footer>
     </div>
     
