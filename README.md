@@ -21,3 +21,18 @@ This project automates the **cleansing of healthcare data** using **Natural Lang
 ```bash
 git clone https://github.com/Reshma741/Automating-Data-cleansing-for--Healthcare-records-with-NLP.git
 cd Automating-Data-cleansing-for--Healthcare-records-with-NLP
+
+**###2️⃣ Install Dependencies**
+cd frontend
+npm install
+npm start
+
+for Backend
+python app.py
+
+3️⃣ Open the App
+Frontend: http://localhost:3000/
+Backend: http://localhost:5000/
+
+
+
